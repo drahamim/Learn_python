@@ -11,3 +11,4 @@ str1 = 'Name'
 print str1, type(str1)
 str1 = str1 + " python"
 print str1
+print len(str1)
