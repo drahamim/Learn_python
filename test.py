@@ -9,3 +9,5 @@ print num, type(num)
 # double are the same
 str1 = 'Name'
 print str1, type(str1)
+str1 = str1 + " python"
+print str1
