@@ -3,5 +3,5 @@
 # float : 1.0, 2.0
 # boolean : True Falst
 
-num = 1
+num = True
 print num, type(num)
