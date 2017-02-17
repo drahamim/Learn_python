@@ -13,3 +13,6 @@ print celToF(13)
 
 x,y = celToF(14)
 print x,y
+
+x = celToF(15)
+print x 
