@@ -11,3 +11,9 @@ for i in list1:
     print i
 
 print range(0,10)
+
+tup = (1,2,3,4)
+
+print tup
+
+tup[0] =12
