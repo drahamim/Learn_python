@@ -16,4 +16,7 @@ tup = (1,2,3,4)
 
 print tup
 
-tup[0] =12
+#tup[0] = 12
+
+for i in tup[3:1:-1]:
+ print i
